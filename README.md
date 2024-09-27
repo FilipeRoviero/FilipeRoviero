@@ -5,5 +5,5 @@
 
 ### Linguagens que mais utilizo no meu dia a dia:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeRoviero&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeRoviero&hide_progress=false)
 
