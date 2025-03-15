@@ -7,5 +7,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeRoviero&hide_progress=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilipeRoviero&show_icons=true&theme=radical)
-
